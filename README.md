@@ -7,6 +7,14 @@
 💼 Atualmente: Trabalhando como desenvolvedor junior no Itaú Unibanco.
 
 
+
+👋 Hello! I'm Marco, and I'm passionate about programming and mobile software development. I've been developing apps since 2020 using Kotlin.
+
+🌱 I'm constantly learning and seeking new challenges to enhance my skills in Kotlin.
+
+💼 Currently: Working as a junior developer at Itaú Unibanco.
+
+
 # 📧 Contato:
 	
 <a href="mailto:mp_fernandes97@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/><a/>
