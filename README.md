@@ -6,7 +6,7 @@
 
 💼 Atualmente: Trabalhando como desenvolvedor junior no Itaú Unibanco.
 
-============================================================================================================================================================================================================
+==========================================================================================
 
 👋 Hello! I'm Marco, and I'm passionate about programming and mobile software development. I've been developing apps since 2020 using Kotlin.
 
