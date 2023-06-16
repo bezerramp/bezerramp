@@ -8,6 +8,8 @@
 
 ==========================================================================================
 
+# 💫 About me:
+
 👋 Hello! I'm Marco, and I'm passionate about programming and mobile software development. I've been developing apps since 2020 using Kotlin.
 
 🌱 I'm constantly learning and seeking new challenges to enhance my skills in Kotlin.
